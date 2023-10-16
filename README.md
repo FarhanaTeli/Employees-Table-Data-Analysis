@@ -1,4 +1,4 @@
-# Employees-Table-Data-Analysis
+# Integrated Data Analysis and Visualization Project for Employee Data
 In this data analysis project, data preprocessing and data visualization task also performed for Employees table. 
 
 **Data**: The Employees table contains six tables such as department, department_employee, department_manager, employee, salary, and title table. Each of those includes information about employees such as employee_id, first_name, last_name, salary, title, department_id, etc.
